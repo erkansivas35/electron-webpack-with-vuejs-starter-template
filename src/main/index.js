@@ -20,6 +20,7 @@ app.on('ready', () => {
   window.on("closed", () => {
     window = null;
   })
+
 })
 
 app.on("window-all-closed", () => {
