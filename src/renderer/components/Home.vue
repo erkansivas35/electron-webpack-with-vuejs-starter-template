@@ -6,7 +6,7 @@
 export default {
   data() {
     return {
-      name: "Electron Starter App"
+      name: "Electron + VueJS Starter App"
     };
   }
 };
